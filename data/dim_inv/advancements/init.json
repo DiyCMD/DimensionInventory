@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "init": {
+            "trigger": "minecraft:location"
+        }
+    },
+    "rewards": {
+        "function": "dim_inv:init"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "change_dim": {
+            "trigger": "minecraft:changed_dimension"
+        }
+    },
+    "rewards": {
+        "function": "dim_inv:change_dim"
+    }
+}
